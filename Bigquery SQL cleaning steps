@@ -170,4 +170,15 @@ Then, I run the SELECT DISTINCT statement again to ensure that there are only th
 FROM
   cars.car_info;
 
-now there only three unique values in this column! Which means data is clean,  consistent, and ready for analysis!   
+now there only three unique values in this column! Which means data is clean,  consistent, and ready for analysis!
+
+Save new file 
+
+SELECT
+*
+FROM 
+cars.car_info;
+
+
+
+
