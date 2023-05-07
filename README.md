@@ -1,4 +1,4 @@
-# car-dealership-startup-venture Cleaning process with Bigquery.
+# Introduction
 Mini project where I am a data analyst for a startup called "Venture".
 
 # Business Task
